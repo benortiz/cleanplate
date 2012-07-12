@@ -1,0 +1,13 @@
+body {
+	width:100%;
+}
+
+#footer, .tools, #newTask, #addTask {
+	display:none;
+}
+
+ul#tasks li {
+	list-style-type:decimal;
+	margin-bottom:-25px;
+	padding:0px;
+}
