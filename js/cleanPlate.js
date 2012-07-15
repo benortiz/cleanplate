@@ -12,7 +12,7 @@
  * Tasks are stored using localStorage with one element  *
  * for the task and another for the expiration date.     *
  *                                                       *
- * 						June 2012*
+ * 												June 2012*
  *********************************************************/
 
 var savedPresent;	// tells whether or not a saved task exists
